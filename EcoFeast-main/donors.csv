@@ -1,0 +1,2 @@
+Food_Category,Quantity,latitude,longitude,Ingredients,Contact_Number,Pickup_Time,Pickup_Window
+Dairy,1,28.546806,77.046798,"['milk', 'cream']",9120112701,00:33:00,2
